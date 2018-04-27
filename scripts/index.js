@@ -10,3 +10,4 @@ for (j = 1; j < 10; j++) {
 }
 document.getElementById("content").innerHTML = text;
 //note:一個數字=2個&nbsp
+//測試能否推
